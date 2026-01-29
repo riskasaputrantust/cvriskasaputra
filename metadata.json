@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Riska Saputra Portfolio - AI & EdTech Researcher",
+  "description": "A high-performance academic and professional portfolio for Riska Saputra, featuring AI-powered insights and a futuristic research dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
